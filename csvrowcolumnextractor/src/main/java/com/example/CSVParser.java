@@ -3,8 +3,9 @@ package com.example;
 /**
  * Mide
  * 
- * Inherits from or implements your architecture to specifically parse CSV text.
- * Uses collections like Lists, Maps and functional-style streams to handle data.
+ * The behavioral contracts for the program. For example, a Parser interface with a parse() method
+ * and an Exporter interface with an export() method.
+ * This allows other team members to write concrete classes that implement these interfaces.
  * 
  * CSVParser
  */

@@ -3,7 +3,8 @@ package com.example;
 /**
  * Dippy
  * 
- * Contains automated unit tests to verify that parser, data structures and extractors work correctly.
+ * Custom exception classes (like InvalidFileException or MalformedCSVException) and the error-handling mechanisms 
+ * that catch file-not-found errors, bad formatting, or out-of-bounds index requests gracefully.
  * 
  * CSVException
  */
