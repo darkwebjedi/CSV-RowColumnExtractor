@@ -9,7 +9,7 @@ import java.util.regex.*;
  * CSVExtractor - A production-ready Java CLI tool to extract specific rows or columns from CSV files.
  */
 
-public class Driver {
+public class Main {
 
     // ANSI color codes for console output
     private static final String RESET = "\u001B[0m";
