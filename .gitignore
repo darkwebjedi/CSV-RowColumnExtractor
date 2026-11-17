@@ -1,0 +1,6 @@
+# IntelliJ settings (each person's own)
+.idea/
+*.iml
+
+# Maven build output (rebuilt automatically)
+target/
